@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajay Khanna
-- 👀 I’m interested in Azure, modern cloud development and Devops
-- 🌱 I’m currently learning K8S and Devops
+- 👀 I’m interested in Microsoft Azure, AI, Modern cloud development, Devops and Integration
+- 🌱 I’m currently working on Integration solutions using Azure, Kafka, Microservices, Azure Integration Services and Power Automate (Cloud and Desktop)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
